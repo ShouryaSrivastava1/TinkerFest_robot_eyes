@@ -72,7 +72,6 @@ void Startup()
   }
   }
 }
-
 void eyes_open_state()
 {
   for (int i = 0; i < NUM_LEDS; i++) {
